@@ -1,0 +1,5 @@
+Getting started with the project.
+
+>> starting python environment
+>> first install virtual env or venv
+>> to start the env -->> pipenv shell
